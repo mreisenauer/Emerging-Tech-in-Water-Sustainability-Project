@@ -1,6 +1,6 @@
 Meghan Reisenauer empirical coding project for application - The Institute for Policy Integrity, Research Associate
 
-This coding project comes from an academic project for a class titled "Emerging Technologies in Water Sustainability."
+This coding project comes from an academic project for a class titled "Emerging Technologies in Water Sustainability," taken as part of my Master of Science, Environmental Engineering program at UC Berkeley.
 
 Project Report Abstract
 
